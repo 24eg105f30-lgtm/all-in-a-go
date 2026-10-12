@@ -24,7 +24,7 @@ public class HomeController {
                "<h1>🚀 Backend API is Live!</h1>" +
                "<p>Your Java Spring Boot multi-inventory backend is up and running healthy.</p>" +
                "<p>To view your website, storefront, vendor portal, and order tracker:</p>" +
-               "<a class='btn' href='http://localhost:5173'>👉 Open Storefront: http://localhost:5173</a>" +
+               "<a class='btn' href='https://vercel.app'> 👉 Open Storefront: https://vercel.app</a>" +
                "<div class='links'>" +
                "<a href='/h2-console'>📊 H2 Database Console</a>" +
                "<a href='/api/products'>📦 Products API</a>" +
